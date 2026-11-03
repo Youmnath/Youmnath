@@ -42,7 +42,7 @@ Projet de groupe : conservation des **10 dernières secondes** de mesures simul�
 - Gestion mémoire : `malloc`, `calloc`, `free`
 - Sauvegarde et lecture de données binaires ; tests de scénarios d'accélération, freinage et surchauffe
 
-🔗 [Consulter mes dépôts]([https://github.com/Youmnath/BlackBoxProject](https://github.com/Youmnath/BlackBoxProject))
+🔗 [Consulter mes dépôts](https://github.com/Youmnath/BlackBoxProject)
 
 ### 📊 Power BI — Analyse interactive des ventes
 
