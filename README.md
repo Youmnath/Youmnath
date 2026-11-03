@@ -62,7 +62,8 @@ Parcours Microsoft Learn **Dashboard in a Day — Atelier en ligne**, terminé l
 
 🔗 [Parcours Microsoft Learn](https://learn.microsoft.com/fr-fr/training/paths/dashboard-in-a-day/)
 
-*À venir : présentation illustrée du travail réalisé.*
+🔗 [Découvrir le projet](https://github.com/Youmnath/powerbi-dashboard-in-a-day)
+
 
 ### 🤖 Simulateur robotique — Robot sauveteur en Java
 
