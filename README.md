@@ -179,7 +179,7 @@ Classes préparatoires scientifiques MPSI · **2024–2026** · Cotonou, Bénin
 
 - 💼 **LinkedIn :** [Youmnath MOUTAIROU](https://www.linkedin.com/in/youmnath-moutairou/)
 - 🐙 **GitHub :** [github.com/Youmnath](https://github.com/Youmnath)
-- ✉️ **E-mail professionnel :** *à ajouter après confirmation de l'adresse à rendre publique*
+- ✉️ **E-mail professionnel :** [youmnath.moutairou@groupe-esigelec.org](mailto:youmnath.moutairou@groupe-esigelec.org)
 
 **Ouverte aux échanges autour d'une alternance de 36 mois, avec disponibilité immédiate.**
 
