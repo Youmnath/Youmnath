@@ -49,6 +49,7 @@ Projet de groupe : conservation des **10 dernières secondes** de mesures simul�
 Rapport construit à partir de données de **clients, produits et commandes**, avec analyses par catégorie, produit et ville, dans le cadre de mon apprentissage des fondamentaux Data et de ma préparation à la **DP-900**.
 
 **Outils :** Power BI · préparation et visualisation de données · filtres interactifs.
+
 **Tâche :**
 Conception d'un tableau de bord interactif pour analyser le chiffre d'affaires par catégorie de produits, la répartition des quantités vendues et les performances commerciales par ville avec Azure Maps.
 
